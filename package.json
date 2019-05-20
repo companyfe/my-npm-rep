@@ -1,0 +1,19 @@
+{
+  "name": "@companyfe/my-npm-rep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/companyfe/my-npm-rep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/companyfe/my-npm-rep/issues"
+  },
+  "homepage": "https://github.com/companyfe/my-npm-rep#readme"
+}
